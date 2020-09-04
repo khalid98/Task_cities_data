@@ -2,10 +2,14 @@
   "name": "ngx-admin",
   "version": "6.0.0",
   "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  }
   "repository": {
     "type": "git",
     "url": "git+https://github.com/akveo/ngx-admin.git"
   },
+  
   "bugs": {
     "url": "https://github.com/akveo/ngx-admin/issues"
   },
